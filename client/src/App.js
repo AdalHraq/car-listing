@@ -19,7 +19,7 @@ function App() {
   const [maxPrice, setMaxPrice] = useState(100000);
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyCDr7HQCbaIVSaydxhjVgdnlWgHHZ7b6tw" // API key
+    googleMapsApiKey: "INSERT_YOUR_KEY" // API key
   });
 
   const fetchCars = () => {
