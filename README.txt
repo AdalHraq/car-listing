@@ -5,8 +5,8 @@ npm install
 cd ../client
 npm install
 
-# 2. Add your Google Maps API key in App.js if needed
-     (Left my API key in)
+# 2. Add your Google Maps API key in App.js
+    
 
 # 3. Run the servers
 cd server
